@@ -1,0 +1,68 @@
+/**
+ * Orange: FF6138
+ * Beige: FFFF9D
+ * Light Green: BEEB9F
+ * Med Green: 79BD8F
+ * Turquoise: 00A388
+ *
+ **/
+
+body {
+	background-color: #AD976A;
+}
+
+div.container {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+div.content {
+	background-color: #FFFFE4;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+footer {
+	border-top-style: solid;
+	border-top-width: 2px;
+	border-top-color: #222029;
+}
+
+footer div.copyright {
+	padding-top: 20px;
+}
+
+footer a, footer a:hover {
+	color: #333333;
+	text-decoration: underline;
+}
+
+footer div.card {
+	opacity: 0.5;
+	float: right;
+	width: 600px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+footer div.card img {
+	float: right;
+	height: 60px;
+	padding-left: 20px;
+}
+
+.quiet {
+	opacity: 0.4;
+}
+
+.hero-unit {
+	background-color: #323B40;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	color: #FFF5E4;
+}
+
+.hero-unit h1 {
+	color: #BEEB9F;
+	margin-top: 30px;
+}
