@@ -66,3 +66,7 @@ footer div.card img {
 	color: #BEEB9F;
 	margin-top: 30px;
 }
+
+div.current-projects img {
+	width: 260px;
+}
